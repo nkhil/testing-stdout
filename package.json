@@ -1,0 +1,30 @@
+{
+  "name": "testing-stdout",
+  "version": "1.0.0",
+  "description": "An example repo to show how to test stdout",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkhil/testing-stdout.git"
+  },
+  "keywords": [
+    "testing",
+    "stdout",
+    "node"
+  ],
+  "author": "Nikhil Vijayan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkhil/testing-stdout/issues"
+  },
+  "homepage": "https://github.com/nkhil/testing-stdout#readme",
+  "dependencies": {
+    "pino": "5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
